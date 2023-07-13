@@ -1,0 +1,32 @@
+.outerBox{
+    width: 72vw;
+    height: 35vh;
+    border: 1px solid lightgray;
+    border-radius: 1rem;
+   margin: 1em auto;
+}
+.innerBox{
+    width: 94%;
+    height: 100%;
+}
+.individual_posts{
+    width: 100%;
+    height: 57%;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    overflow-y: auto;
+}
+footer{
+    font-weight: bolder;
+    margin: 1px 20px;
+}
+.delete_post{
+    border: none;
+    margin-left: 4rem;
+    font-size: xx-large;
+}
+header{
+    margin: 5px 20px;
+    font-size: x-large;
+    font-weight: 700;
+}

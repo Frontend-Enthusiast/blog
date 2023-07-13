@@ -1,0 +1,16 @@
+nav{
+  background-color: black;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  width: 100vw;
+  height: 10vh;
+}
+nav>a{
+  margin-top: 2rem;
+  color: white;
+  margin-right: 2rem;
+  text-decoration: none;
+  font-size: x-large;
+  font-weight: 640;
+}

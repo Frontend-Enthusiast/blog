@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.postBox{
+    width: 37vw;
+    height: 47vh;
+    background-color: black;
+    margin-left: 24rem;
+    margin-top: 8rem;
+    border-radius: 15px;
+    color: white;
+}
+header{
+    margin-left: 7em;
+    font-size: x-large;
+    font-weight: 700;
+}
+input{
+    height: 7vh;
+    margin-top: 5px;
+}
+label{
+    font-size: larger;
+    font-weight: 600;
+}
+textarea{
+    height: 17vh;
+}
+footer>button{
+    width: 100%;
+    margin-top: 12px;
+}
+.outer__container{
+    width: 94%;
+    height: 100%;
+    margin-left: 1em;
+}
